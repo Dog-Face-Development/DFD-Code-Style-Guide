@@ -22,3 +22,4 @@ The style guide Dog Face Development Co's developers use when writing code, to m
 - [PEP 20](https://www.python.org/dev/peps/pep-0020/)
 - [HTML5 Syntax](https://www.w3schools.com/html/html5_syntax.asp)
 - [CSS Style Guide](https://css-tricks.com/css-style-guides/)
+- https://files.community/docs/contributing/code-style
