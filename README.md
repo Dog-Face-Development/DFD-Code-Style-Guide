@@ -13,6 +13,7 @@ The style guide Dog Face Development Co's developers use when writing code, to m
 
 ## Links
 - [Google Style Guide](http://google.github.io/styleguide/)
+- [Government of Canada Design System](https://www.canada.ca/en/government/about/design-system.html)
 - [FreeCodeCamp Style Guide](https://medium.freecodecamp.org/the-100-correct-coding-style-guide-5b594a1655f0)
 - [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 - [Python Guide Style Guide](https://docs.python-guide.org/writing/style/)
