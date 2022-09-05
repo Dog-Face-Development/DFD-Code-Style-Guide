@@ -103,7 +103,6 @@ This software uses the following open source packages, projects, services or web
 * [ProgramVer](https://github.com/Dog-Face-Development/ProgramVer) - An open-source, Python GUI version window to show copyright info and licenses.
 * [PyWorkout](https://github.com/Dog-Face-Development/PyWorkout) - A minimal CLI to keep you inspired during your workout!
 * [PyAvatar](https://github.com/Dog-Face-Development/PyAvatar) - Easily display all of your creative avatars to keep them consistent across websites.
-* [dogfacedev.io](https://github.com/Dog-Face-Development/dogfacedev.io) - The Dog Face Development Co. website.
 
 ## License
 
