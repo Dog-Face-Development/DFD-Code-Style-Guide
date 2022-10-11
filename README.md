@@ -38,14 +38,14 @@
 
 ## Key Features
 
-* Clear style guide.
-* Available for many programming languages.
-* Available for many programming platforms.
-* Consistency across all projects.
-* Easy to implement.
-* Reusable standards.
-* Available in Markdown and on the web.
-* Cross platform, web browser based.
+- Clear style guide.
+- Available for many programming languages.
+- Available for many programming platforms.
+- Consistency across all projects.
+- Easy to implement.
+- Reusable standards.
+- Available in Markdown and on the web.
+- Cross platform, web browser based.
 
 ## How To Use
 
@@ -111,13 +111,13 @@ This software uses the following open source packages, projects, services or web
 
 ## Contributors
 
-* [@willtheorangeguy](https://github.com/willtheorangeguy) - Sponsor on [PayPal](https://paypal.me/wvdg44?country.x=CA&locale.x=en_US)
+- [@willtheorangeguy](https://github.com/willtheorangeguy) - Sponsor on [PayPal](https://paypal.me/wvdg44?country.x=CA&locale.x=en_US)
 
 ## You may also like...
 
-* [ProgramVer](https://github.com/Dog-Face-Development/ProgramVer) - An open-source, Python GUI version window to show copyright info and licenses.
-* [PyWorkout](https://github.com/Dog-Face-Development/PyWorkout) - A minimal CLI to keep you inspired during your workout!
-* [PyAvatar](https://github.com/Dog-Face-Development/PyAvatar) - Easily display all of your creative avatars to keep them consistent across websites.
+- [ProgramVer](https://github.com/Dog-Face-Development/ProgramVer) - An open-source, Python GUI version window to show copyright info and licenses.
+- [PyWorkout](https://github.com/Dog-Face-Development/PyWorkout) - A minimal CLI to keep you inspired during your workout!
+- [PyAvatar](https://github.com/Dog-Face-Development/PyAvatar) - Easily display all of your creative avatars to keep them consistent across websites.
 
 ## License
 
