@@ -4,7 +4,7 @@ import vue from "@astrojs/vue";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://dog-face-development.github.io',
+  site: "https://dog-face-development.github.io",
   integrations: [
     // Enable Preact to support Preact JSX components.
     vue(),
