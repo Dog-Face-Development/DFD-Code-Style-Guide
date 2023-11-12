@@ -14,6 +14,8 @@
   <img alt="Docker State" src="https://github.com/Dog-Face-Development/DFD-Code-Style-Guide/actions/workflows/docker-publish.yml/badge.svg">
   <!-- Stability -->
   <img alt="GitHub Pages State" src="https://github.com/Dog-Face-Development/DFD-Code-Style-Guide/actions/workflows/pages-build-deployment.yml/badge.svg">
+  <!-- Stability -->
+  <img alt="Playwright Test State" src="https://github.com/Dog-Face-Development/DFD-Code-Style-Guide/actions/workflows/tests.yml/badge.svg">
   <!-- CodeQL -->
   <img alt="CodeQL State" src="https://github.com/Dog-Face-Development/DFD-Code-Style-Guide/actions/workflows/codeql-analysis.yml/badge.svg">
   <!-- Version -->
