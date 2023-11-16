@@ -17,6 +17,8 @@ jobs:
           node-version: 18
       - name: Install dependencies
         run: npm ci
+      - name: Install npm dependencies
+        run: npm install --save-dev playwright --force
       - name: Run your tests
         run: npx playwright test
         
