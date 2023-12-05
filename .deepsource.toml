@@ -1,16 +1,24 @@
 version = 1
 
+test_patterns = ["tests/**"]
+
+[[analyzers]]
+name = "secrets"
+
 [[analyzers]]
 name = "docker"
-enabled = true
 
   [analyzers.meta]
   dockerfile_paths = ["Dockerfile"]
 
 [[analyzers]]
 name = "javascript"
-enabled = true
+
+  [analyzers.meta]
+  environment = [
+    "nodejs",
+    "browser"
+  ]
 
 [[transformers]]
 name = "prettier"
-enabled = true
