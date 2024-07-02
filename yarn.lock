@@ -241,11 +241,12 @@
   dependencies:
     prismjs "^1.29.0"
 
-"@astrojs/react@^0.1.0":
-  version "0.1.3"
-  resolved "https://registry.npmjs.org/@astrojs/react/-/react-0.1.3.tgz"
-  integrity sha512-0CudcI3buiRQ1ZOxBCsscSGNJSTGUFEU4evZeGlrxND6nPskS3S1HcUIO9UpkHJayef54SbX5ABiLFftQznDuA==
+"@astrojs/react@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@astrojs/react/-/react-1.2.0.tgz#8a927ec8e389a9c7208a131dea0593b412609f9c"
+  integrity sha512-UREteXiIaI7GDsPBgddtZpKAAUod+l/Baq+McY7gNs5w0aqDmHBzwoBZURPLklJXGAjZ/YBvrVtpiJrahEardA==
   dependencies:
+    "@babel/core" ">=7.0.0-0 <8.0.0"
     "@babel/plugin-transform-react-jsx" "^7.17.12"
 
 "@astrojs/tailwind@^1.0.1":
@@ -302,7 +303,7 @@
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.24.7.tgz#d23bbea508c3883ba8251fb4164982c36ea577ed"
   integrity sha512-qJzAIcv03PyaWqxRgO4mSU3lihncDT296vnyuE2O8uA4w3UHWI4S3hgeZd1L8W1Bft40w9JxJ2b412iDUFFRhw==
 
-"@babel/core@^7.19.6", "@babel/core@^7.22.1", "@babel/core@^7.24.7":
+"@babel/core@>=7.0.0-0 <8.0.0", "@babel/core@^7.19.6", "@babel/core@^7.22.1", "@babel/core@^7.24.7":
   version "7.24.7"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.24.7.tgz#b676450141e0b52a3d43bc91da86aa608f950ac4"
   integrity sha512-nykK+LEK86ahTkX/3TgauT0ikKoNCfKHEaZYTUVupJdTLzGNvrblu4u6fa7DhZONAltdf8e662t/abY8idrd/g==
