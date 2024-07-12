@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@astrojs/preact": "^3.5.0",
-    "@astrojs/react": "^0.1.0",
+    "@astrojs/react": "^1.2.0",
     "@astrojs/tailwind": "^1.0.1",
     "@playwright/test": "^1.45.1",
     "astro": "^4.11.3",
