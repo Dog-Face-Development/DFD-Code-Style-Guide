@@ -14,7 +14,7 @@
     "@docsearch/css": "^3.6.1",
     "@docsearch/react": "^3.6.1",
     "@types/react": "^18.3.3",
-    "playwright": "^1.45.3",
+    "playwright": "^1.46.0",
     "preact": "^10.23.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -27,6 +27,6 @@
     "@astrojs/tailwind": "^1.0.1",
     "@playwright/test": "^1.45.3",
     "astro": "^4.12.2",
-    "playwright": "^1.45.3"
+    "playwright": "^1.46.0"
   }
 }
