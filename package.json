@@ -25,7 +25,7 @@
     "@astrojs/preact": "^3.5.1",
     "@astrojs/react": "^1.2.0",
     "@astrojs/tailwind": "^1.0.1",
-    "@playwright/test": "^1.46.0",
+    "@playwright/test": "^1.46.1",
     "astro": "^4.14.5",
     "playwright": "^1.45.3"
   }
