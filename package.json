@@ -15,7 +15,7 @@
     "@docsearch/react": "^3.6.1",
     "@types/react": "^18.3.5",
     "playwright": "^1.47.0",
-    "preact": "^10.23.2",
+    "preact": "^10.24.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "sass": "^1.78.0",
