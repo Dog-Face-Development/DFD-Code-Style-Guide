@@ -13,7 +13,7 @@
     "@astrojs/vue": "^4.5.1",
     "@docsearch/css": "^3.6.1",
     "@docsearch/react": "^3.6.1",
-    "@types/react": "^18.3.5",
+    "@types/react": "^18.3.7",
     "playwright": "^1.47.0",
     "preact": "^10.24.0",
     "react": "^18.0.0",
