@@ -12,7 +12,7 @@
     "@algolia/client-search": "^5.13.0",
     "@astrojs/vue": "^4.5.2",
     "@docsearch/css": "^3.6.2",
-    "@docsearch/react": "^3.7.0",
+    "@docsearch/react": "^3.8.0",
     "@types/react": "^18.3.12",
     "playwright": "^1.48.0",
     "preact": "^10.24.3",
