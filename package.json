@@ -18,7 +18,7 @@
     "preact": "^10.24.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "sass": "^1.80.6",
+    "sass": "^1.80.7",
     "vue": "3.5"
   },
   "devDependencies": {
