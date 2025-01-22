@@ -11,7 +11,7 @@
   "dependencies": {
     "@algolia/client-search": "^5.18.0",
     "@astrojs/vue": "^4.5.3",
-    "@docsearch/css": "^3.6.2",
+    "@docsearch/css": "^3.8.3",
     "@docsearch/react": "^3.8.2",
     "@types/react": "^18.3.12",
     "playwright": "^1.48.0",
