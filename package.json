@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@algolia/client-search": "^5.21.0",
-    "@astrojs/vue": "^4.5.3",
+    "@astrojs/vue": "^5.0.7",
     "@docsearch/css": "^3.9.0",
     "@docsearch/react": "^3.9.0",
     "@types/react": "^18.3.12",
@@ -26,7 +26,7 @@
     "@astrojs/react": "^1.2.0",
     "@astrojs/tailwind": "^1.0.1",
     "@playwright/test": "^1.51.1",
-    "astro": "^4.16.18",
+    "astro": "^5.5.4",
     "playwright": "^1.48.0"
   }
 }
