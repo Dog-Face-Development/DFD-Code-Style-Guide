@@ -236,10 +236,10 @@
     unist-util-visit-parents "^6.0.1"
     vfile "^6.0.3"
 
-"@astrojs/preact@^4.0.6":
-  version "4.0.6"
-  resolved "https://registry.yarnpkg.com/@astrojs/preact/-/preact-4.0.6.tgz#5caff5c864c94c69bb609ffbb721253afa423bd8"
-  integrity sha512-SmfQU2cuEqWBHFf/X0rwHK1MKbrzuOBDg3Es02p7iXNLE0iysXVin5wNiFh/+EDxk0jcLN3zPggK7a14wVnBjA==
+"@astrojs/preact@^4.0.7":
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/@astrojs/preact/-/preact-4.0.7.tgz#559cff8a4fbe2b5ea299a72668d2a2de9894dac7"
+  integrity sha512-XfSyqhPPHHFU+JRNxG08EKvD+tEzUTi0srkwW0DxBH1zY5TsuesHW63hZ+FQBaE+qPKx/mRE6mTpPsZzzWK1GQ==
   dependencies:
     "@babel/plugin-transform-react-jsx" "^7.25.9"
     "@babel/plugin-transform-react-jsx-development" "^7.25.9"
@@ -247,7 +247,7 @@
     "@preact/signals" "^2.0.1"
     babel-plugin-transform-hook-names "^1.0.2"
     preact-render-to-string "^6.5.13"
-    vite "^6.2.2"
+    vite "^6.2.3"
 
 "@astrojs/prism@3.2.0":
   version "3.2.0"
@@ -4846,7 +4846,7 @@ vite-prerender-plugin@^0.5.3:
     source-map "^0.7.4"
     stack-trace "^1.0.0-pre2"
 
-vite@^6.0.11, vite@^6.2.2, vite@^6.2.3:
+vite@^6.0.11, vite@^6.2.3:
   version "6.2.3"
   resolved "https://registry.yarnpkg.com/vite/-/vite-6.2.3.tgz#249e92d32886981ab46bc1f049ac72abc6fa81e2"
   integrity sha512-IzwM54g4y9JA/xAeBPNaDXiBF8Jsgl3VBQ2YQ/wOY6fyW3xMdSoltIV3Bo59DErdqdE6RxUfv8W69DvUorE4Eg==
