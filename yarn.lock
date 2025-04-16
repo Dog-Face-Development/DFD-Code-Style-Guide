@@ -236,18 +236,18 @@
     unist-util-visit-parents "^6.0.1"
     vfile "^6.0.3"
 
-"@astrojs/preact@^4.0.7":
-  version "4.0.7"
-  resolved "https://registry.yarnpkg.com/@astrojs/preact/-/preact-4.0.7.tgz#559cff8a4fbe2b5ea299a72668d2a2de9894dac7"
-  integrity sha512-XfSyqhPPHHFU+JRNxG08EKvD+tEzUTi0srkwW0DxBH1zY5TsuesHW63hZ+FQBaE+qPKx/mRE6mTpPsZzzWK1GQ==
+"@astrojs/preact@^4.0.9":
+  version "4.0.9"
+  resolved "https://registry.yarnpkg.com/@astrojs/preact/-/preact-4.0.9.tgz#1bd38ca9e88218e79c50b71b006e7643aae5980f"
+  integrity sha512-ITk2iFQpx5hBc5uwPXR6HMLBc1UWGtxiLFtv3NeRoqWR7a75XhavaIuY1PeWVY3nE7qzk04irVc78u8JOpdH0A==
   dependencies:
     "@babel/plugin-transform-react-jsx" "^7.25.9"
     "@babel/plugin-transform-react-jsx-development" "^7.25.9"
     "@preact/preset-vite" "^2.10.1"
-    "@preact/signals" "^2.0.1"
+    "@preact/signals" "^2.0.2"
     babel-plugin-transform-hook-names "^1.0.2"
     preact-render-to-string "^6.5.13"
-    vite "^6.2.3"
+    vite "^6.2.6"
 
 "@astrojs/prism@3.2.0":
   version "3.2.0"
@@ -1386,10 +1386,10 @@
   resolved "https://registry.yarnpkg.com/@preact/signals-core/-/signals-core-1.7.0.tgz#3ffb886bfac80ff14dac365dd09184a289a2e64c"
   integrity sha512-bEZLgmJGSBVP5PUPDowhPW3bVdMmp9Tr5OEl+SQK+8Tv9T7UsIfyN905cfkmmeqw8z4xp8T6zrl4M1uj9+HAfg==
 
-"@preact/signals@^2.0.1":
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@preact/signals/-/signals-2.0.1.tgz#61a156eb254451964135f3450745b56f8b3ee71e"
-  integrity sha512-f9p/utMgttPb9bJ+UgRBkTDZ9uQiZfX1/gV3pXGWz+yGNQj8MrnG55Xo8MAG4IHcb5UXQO6tvt9ZlsM4A2j+Rw==
+"@preact/signals@^2.0.2":
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/@preact/signals/-/signals-2.0.3.tgz#7f9ae1678456179df9e098ffef17fc5c0f0f5fbf"
+  integrity sha512-ZdC6w8+LdCMeALEoJgzwEAGw2YahqWGCQLfzRCRvRGC411SzcJOiti5gEqrSN+tKtGqMgicHtQ/eUUxWGTBw0A==
   dependencies:
     "@preact/signals-core" "^1.7.0"
 
