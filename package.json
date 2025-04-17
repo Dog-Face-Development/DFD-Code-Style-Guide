@@ -9,7 +9,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "@algolia/client-search": "^5.23.0",
+    "@algolia/client-search": "^5.23.4",
     "@astrojs/vue": "^5.0.10",
     "@docsearch/css": "^3.9.0",
     "@docsearch/react": "^3.9.0",
