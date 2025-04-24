@@ -287,10 +287,10 @@
     is-wsl "^3.1.0"
     which-pm-runs "^1.1.0"
 
-"@astrojs/vue@^5.0.10":
-  version "5.0.10"
-  resolved "https://registry.yarnpkg.com/@astrojs/vue/-/vue-5.0.10.tgz#88aea983e89cd572942d96af9dfa23dc9edbbf7a"
-  integrity sha512-x0aXf+qn/uF2Qw+8O9S+avYwAQEUCEZVef3mN0F1Fq2byHA+Y0KNDjfk2iYEN/eHtkNIZCcGXKygblhecjEb7g==
+"@astrojs/vue@^5.0.11":
+  version "5.0.11"
+  resolved "https://registry.yarnpkg.com/@astrojs/vue/-/vue-5.0.11.tgz#d7eea98edcf3538bf8709d4836fc537a2d4fe0da"
+  integrity sha512-+K0oW8reSlc07coWcvXSTW2m5iWaDwiX+zaRnRkQb0U2oL9DqvJLyGQBv1LLmt+qqIiykF0Zt4TVu3+jc+SBmg==
   dependencies:
     "@vitejs/plugin-vue" "5.2.1"
     "@vitejs/plugin-vue-jsx" "^4.1.2"
