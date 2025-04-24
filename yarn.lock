@@ -236,16 +236,13 @@
     unist-util-visit-parents "^6.0.1"
     vfile "^6.0.3"
 
-"@astrojs/preact@^4.0.9":
-  version "4.0.9"
-  resolved "https://registry.yarnpkg.com/@astrojs/preact/-/preact-4.0.9.tgz#1bd38ca9e88218e79c50b71b006e7643aae5980f"
-  integrity sha512-ITk2iFQpx5hBc5uwPXR6HMLBc1UWGtxiLFtv3NeRoqWR7a75XhavaIuY1PeWVY3nE7qzk04irVc78u8JOpdH0A==
+"@astrojs/preact@^4.0.10":
+  version "4.0.10"
+  resolved "https://registry.yarnpkg.com/@astrojs/preact/-/preact-4.0.10.tgz#ccab18e53d62cbdda36a653fa3a332ff1054c0d1"
+  integrity sha512-QLN9w/qhVSaF5xropGe8Otzx4Yb1rZnmj6m3IzDemrCXf2xDALLPNNno4UK7Zs86iKEu5240B8cEWdnqsZfXLw==
   dependencies:
-    "@babel/plugin-transform-react-jsx" "^7.25.9"
-    "@babel/plugin-transform-react-jsx-development" "^7.25.9"
     "@preact/preset-vite" "^2.10.1"
     "@preact/signals" "^2.0.2"
-    babel-plugin-transform-hook-names "^1.0.2"
     preact-render-to-string "^6.5.13"
     vite "^6.2.6"
 
@@ -749,7 +746,7 @@
   dependencies:
     "@babel/helper-plugin-utils" "^7.25.9"
 
-"@babel/plugin-transform-react-jsx-development@^7.22.5", "@babel/plugin-transform-react-jsx-development@^7.25.9":
+"@babel/plugin-transform-react-jsx-development@^7.22.5":
   version "7.25.9"
   resolved "https://registry.yarnpkg.com/@babel/plugin-transform-react-jsx-development/-/plugin-transform-react-jsx-development-7.25.9.tgz#8fd220a77dd139c07e25225a903b8be8c829e0d7"
   integrity sha512-9mj6rm7XVYs4mdLIpbZnHOYdpW42uoiBCTVowg7sP1thUOiANgMb4UtpRivR0pp5iL+ocvUv7X4mZgFRpJEzGw==
